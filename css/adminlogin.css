@@ -1,0 +1,26 @@
+.center { 
+    margin: 0 auto;
+    margin-top: 250px; 
+    width: 400px;
+    border: 2px solid rgb(65, 117, 141);
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+.error-message{ 
+    color: red;
+}
+
+.form-input{
+    border: 3px solid #ccc;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 20px;
+}
+body{
+    background-image: url("../image/admin2.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 650px;
+    color: rgb(62, 117, 161);
+}
